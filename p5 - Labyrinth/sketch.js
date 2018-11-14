@@ -8,7 +8,7 @@ var start, finish, mompos;
 
 function setup() {
   frameRate(framerate);
-  createCanvas(600,600);
+  createCanvas(800, 800);
   cols = floor(width / w);
   rows = floor(height / w);
   for (var x = 0; x < rows; x++) {

@@ -1,0 +1,2 @@
+# mazefun
+Beste Leben
